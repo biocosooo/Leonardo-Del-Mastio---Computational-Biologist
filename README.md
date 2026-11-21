@@ -5,8 +5,7 @@
 **M.Sc. Student in Pharmaceutical Bioinformatics @ University of Bologna**  
 *B.Sc. in Biology (University of Siena) | Computational Structural Biology & AI for Drug Discovery*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TUO-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tua-email@esempio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-del-mastio-a2878a222)
 
 </div>
 
