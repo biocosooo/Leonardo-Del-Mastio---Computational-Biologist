@@ -2,8 +2,8 @@
 
 # Hi there, I'm Leonardo Del Mastio 👋
 
-**M.Sc. Student in Pharmaceutical Bioinformatics @ University of Bologna**  
-*B.Sc. in Biology (University of Siena) | Computational Structural Biology & AI for Drug Discovery*
+**M.Sc. Student in Bioinformatics @ University of Bologna**  
+*B.Sc. in Biology (University of Siena) | Functional Proteomics*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-del-mastio-a2878a222)
 
